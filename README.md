@@ -1,7 +1,9 @@
-<!-- (Ajout futur d'un index) -->
-<!-- (Ajout des niveaux dans l'index) -->
-
 # Katas (FR)
+
+## Liste des Katas
+
+[La chanson de la bière](https://github.com/women-on-rails/katas/tree/master/beer_song) : novice\
+[Les nombres romains](https://github.com/women-on-rails/katas/tree/master/roman_numerals) : intermédiaire
 
 ## Récupération des katas
 
@@ -20,6 +22,11 @@ Ajouter les fichiers necessaires:
 Dans le readme, expliquer quel est le but du kata et lister les sources.
 
 # Katas (EN)
+
+## Table of contents
+
+[The beer song](https://github.com/women-on-rails/katas/tree/master/beer_song) : beginner\
+[Roman numbers](https://github.com/women-on-rails/katas/tree/master/roman_numerals) : intermediate
 
 ## Get the katas locally
 
