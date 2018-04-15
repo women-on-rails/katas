@@ -14,10 +14,10 @@
 Créer un nouveau dossier avec un nom clair décrivant le nouveau kata.
 
 Ajouter les fichiers necessaires:
-*Gemfile,
-*Fichier de test,
-*Readme,
-*Fichier ruby
+* Gemfile,
+* Fichier de test,
+* Readme,
+* Fichier ruby
 
 Dans le readme, expliquer quel est le but du kata et lister les sources.
 
@@ -37,10 +37,10 @@ Dans le readme, expliquer quel est le but du kata et lister les sources.
 Create a new folder with a clear name of the new kata.
 
 Add the necessary files:
-*Gemfile,
-*Test file,
-*Readme,
-*Ruby file
+* Gemfile,
+* Test file,
+* Readme,
+* Ruby file
 
 In the readme, explain what's the purpose of the Kata and the source.
 
