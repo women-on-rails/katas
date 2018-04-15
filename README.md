@@ -1,3 +1,6 @@
+<!-- (Ajout futur d'un index) -->
+<!-- (Ajout des niveaux dans l'index) -->
+
 # Katas (FR)
 
 ## Récupération des katas
