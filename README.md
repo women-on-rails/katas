@@ -3,6 +3,7 @@
 ## Liste des Katas
 
 [La chanson de la bière](https://github.com/women-on-rails/katas/tree/master/beer_song) : novice\
+[Qui est un Père Noel ?](https://github.com/women-on-rails/katas/tree/master/santa_claus_interface) : novice\
 [Les nombres romains](https://github.com/women-on-rails/katas/tree/master/roman_numerals) : intermédiaire
 
 ## Récupération des katas
@@ -26,6 +27,7 @@ Dans le readme, expliquer quel est le but du kata et lister les sources.
 ## Table of contents
 
 [The beer song](https://github.com/women-on-rails/katas/tree/master/beer_song) : beginner\
+[Who is a Santa Claus ?](https://github.com/women-on-rails/katas/tree/master/santa_claus_interface) : beginner\
 [Roman numbers](https://github.com/women-on-rails/katas/tree/master/roman_numerals) : intermediate
 
 ## Get the katas locally
